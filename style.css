@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+
+.zz{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.zz img{
+    width: 300ppx;
+    height: 300px;
+    padding: 10px;
+    margin: 5px;
+    border: 4px solid black;
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+}
+.rt{
+    display: flex;
+    justify-content: center;
+    
+}
+.rt iframe{
+    border: 2px solid black;
+    margin: 5px;
+    padding: 5px;
+}
+body{
+    background-color: lightgrey;
+}
